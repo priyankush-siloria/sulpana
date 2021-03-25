@@ -1,0 +1,496 @@
+<?php
+/**
+ * The main template file
+ *
+ * This is the most generic template file in a WordPress theme
+ * and one of the two required files for a theme (the other being style.css).
+ * It is used to display a page when nothing more specific matches a query.
+ * E.g., it puts together the home page when no home.php file exists.
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
+ *
+ * @package Starter
+ */
+
+get_header();
+?>
+
+	<section class="hero" id="hero">
+		<div class="container">
+			<div class="hero-content wow animate__fadeIn" data-wow-duration="1.5s">
+				<h2>YOUR GO-TO PARTNER For Fleet Leasing</h2>
+				<h3>
+						Enjoy full-service, fleet vehicle<br/>
+						expertise on the go and on demand
+				</h3>
+				<p>
+					A partner to the logistics industry,  Sulpana Automotive Leasing<br/> provides comprehensive fleet management, rental and last-<br/>minute vehicle delivery for your business. 
+				</p>
+			</div>
+			<!--/Hero Content-->
+
+<!-- 			<div class="hero-misc wow animate__fadeIn" data-wow-duration="2s">
+				<p>
+					If your company’s international expansion brings you to the borders of Guyana, Burada Logistics can expedite your plans with key partnership and critical execution.
+				</p>
+				<a class="btn btn--icon btn--outline btn--outline-white" href="#contact">
+					<span class="btn-text">Contact Us</span>
+					<img class="btn-icon" src="<?php echo get_template_directory_uri(); ?>/assets/img/icon/angles-right-white-md.png">
+				</a>
+			</div> -->
+			<!--/Hero Misc-->
+		</div>
+
+		<!-- <img class="hero-decoration" src="<?php echo get_template_directory_uri(); ?>/assets/img/bg/cargo-ship-resized-v1.gif"> -->
+		<!--/Hero Decoration-->
+	</section>
+	<!--/HERO-->
+
+	<section class="why section" id="why">
+		<div class="container maxw-1060">
+			<div class="decoration">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon/crate-green-md.png">
+			</div>
+			<!--/DECORATION-->
+
+			<div class="heading wow animate__fadeInUp" data-wow-duration="1s">
+				<h2 class="heading-title">WHY BURADA?</h2>
+				<p class="heading-description">
+					Burada Logistics is your complete logistics partner.  Our team consists of Guyana’s foremost leader in logistics, transportation and warehousing. We have deep relationships with trade commissions and governmental bodies" on the ground and in the boardroom.  We are better connected, have stronger partnerships, and farther reach than any logistics firm in the region.  We have the leadership, experience and expertise to deliver in Guyana and abroad.
+				</p>
+			</div>
+			<!--/HEADING-->
+
+			<div class="features">
+				<div class="feature is-active wow animate__fadeInUp" data-wow-duration="1s">
+					<div class="feature-icon">
+						<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#crate"></use></svg>
+					</div>
+					<!--/feature icon-->
+
+					<div class="feature-line">
+						<hr>
+					</div>
+					<!--/feature line-->
+
+					<div class="feature-content">
+						<div class="feature-content__title">
+							<h3>01</h3>
+							<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#box"></use></svg>
+							<h2>Customer <br/> First</h2>
+						</div>
+						<div class="feature-content__main">
+							<p>
+								It’s in our DNA. Our customer-centric approach to logistics strategy, planning and execution means we listen intently to your needs, first. We work closely with you to understand your business goals and deliver solutions that exceed your expectations, on time and on budget.  At Burada our high standard of quality service is met when  your customers feel like our customers.
+							</p>
+						</div>
+					</div>
+					<!---/feature content-->
+				</div>
+				<!--/Feature-->
+
+				<div class="feature is-active wow animate__fadeInUp" data-wow-duration="1s" data-wow-duration="2s">
+					<div class="feature-icon">
+						<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#crate"></use></svg>
+					</div>
+					<!--/feature icon-->
+
+					<div class="feature-line">
+						<hr>
+					</div>
+					<!--/feature line-->
+
+					<div class="feature-content">
+						<div class="feature-content__title">
+							<h3>02</h3>
+							<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#target"></use></svg>
+							<h2>Proven <br/> Track Record</h2>
+						</div>
+						<div class="feature-content__main">
+							<p>
+								From Burada to abroad,  we cut our teeth on logistics around the world. Burada is part of a global family of logistics services whose expertise has been codified and adapted to the realities of every country we operate in.  All shipments are monitored, tracked and visible to our clients from pick-up through the final destination. Our local and international expertise will ensure that your company’s goods and services will get where they need to, when they need to.
+							</p>
+						</div>
+					</div>
+					<!---/feature content-->
+				</div>
+				<!--/Feature-->
+
+				<div class="feature is-active wow animate__fadeInUp" data-wow-duration="1s">
+					<div class="feature-icon">
+						<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#crate"></use></svg>
+					</div>
+					<!--/feature icon-->
+
+					<div class="feature-line">
+						<hr>
+					</div>
+					<!--/feature line-->
+
+					<div class="feature-content">
+						<div class="feature-content__title">
+							<h3>03</h3>
+							<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#flag"></use></svg>
+							<h2>Government <br/> Partnership</h2>
+						</div>
+						<div class="feature-content__main">
+							<p>
+								Burada was created to help companies rapidly engage with Guyana’s burgeoning industry. We leverage our long-term relationships with government agencies and regulators to cut red tape and fast-track movement of goods – we  bring expertise and resources to bear with the Guyanese government and key stakeholders in planning and developing their network of roads, infrastructure and systems to support the growth of your business.
+							</p>
+						</div>
+					</div>
+					<!---/feature content-->
+				</div>
+				<!--/Feature-->
+
+				<div class="feature is-active wow animate__fadeInUp" data-wow-duration="1s">
+					<div class="feature-icon">
+						<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#crate"></use></svg>
+					</div>
+					<!--/feature icon-->
+
+					<div class="feature-line">
+						<hr>
+					</div>
+					<!--/feature line-->
+
+					<div class="feature-content">
+						<div class="feature-content__title">
+							<h3>04</h3>
+							<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#globe"></use></svg>
+							<h2>Global <br/> Connections</h2>
+						</div>
+						<div class="feature-content__main">
+							<p>
+								GO Integrated Group of Companies is the parent company that oversees an operating group of companies that can facilitate the logistical planning, service and movement of goods in the America’s and abroad. The group  represents a depth and breadth of logistical, transportation, leasing, real estate and financial services with expertise in  “All things Logistics”.
+							</p>
+						</div>
+					</div>
+					<!---/feature content-->
+				</div>
+				<!--/Feature-->
+
+				<div class="feature is-active wow animate__fadeInUp" data-wow-duration="1s">
+					<div class="feature-icon">
+						<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#crate"></use></svg>
+					</div>
+					<!--/feature icon-->
+
+					<div class="feature-line">
+						<hr>
+					</div>
+					<!--/feature line-->
+
+					<div class="feature-content">
+						<div class="feature-content__title">
+							<h3>05</h3>
+							<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#rates"></use></svg>
+							<h2>Competitive <br/> Rates</h2>
+						</div>
+						<div class="feature-content__main">
+							<p>
+								At Burada, we are always working to maximize efficiencies when it comes to distribution and delivery throughout our network. This is why our clients enjoy the most competitive rates and know that their goods will arrive intact and on time.
+							</p>
+						</div>
+					</div>
+					<!---/feature content-->
+				</div>
+				<!--/Feature-->
+			</div>
+			<!--/FEATURES-->
+		</div>
+	</section>
+	<!--/WHY-->
+
+	<section class="offer section" id="offer">
+		<div class="container maxw-1340">
+			<div class="decoration">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon/crate-yellow-md.png">
+			</div>
+			<!--/DECORATION-->
+
+			<div class="heading heading--white maxw-1060 mx-auto wow animate__fadeInUp" data-wow-duration="1s">
+				<h2 class="heading-title">WHAT WE OFFER</h2>
+				<p class="heading-description">
+				Peace of mind. Burada Logistics provides the roadmap and the vehicle for your expansion into Guyana. We have an intimate understanding of how things are done in Guyana and are here to create a seamless logistical integration for the distribution of your company’s goods and services. From entry at port or air terminal, we ensure all customs forms are in proper order through the final mile delivery.
+				</p>
+			</div>
+			<!--/HEADING-->
+
+			<div class="contents">
+				<div class="content content--media-last">
+					<div class="content-copy wow animate__fadeInLeft" data-wow-duration="1s">
+						<h2>Transportation of large and essential equipment for the oil and gas industry.</h2>
+						<p>
+							The country’s discoveries of large oil reserves have led to an economic boom and drive to modernize Guyana’s infrastructure to create seamless opportunity. Burada Logistics has the local and international expertise available to work closely with the major international partners in the development of the ports, rail, roads and airports in the movement of the heavy machinery and equipment required to build these critical services.
+						</p>
+						<a class="btn btn--icon btn--text btn--text-white" href="#contact">
+							<span class="btn-text">INQUIRE NOW</span>
+							<img class="btn-icon" src="<?php echo get_template_directory_uri(); ?>/assets/img/icon/angles-right-white-md.png">
+						</a>
+					</div>
+					<!--/content copy-->
+
+					<div class="content-media wow animate__fadeInRight" data-wow-duration="1s">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/offer/rig-md.png">
+					</div>
+					<!--/content media-->
+				</div>
+				<!--/Content-->
+
+				<div class="content content--media-first">
+					<div class="content-media wow animate__fadeInLeft" data-wow-duration="1s">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/offer/warehouse-md-2.png">
+					</div>
+					<!--/content media-->
+
+					<div class="content-copy wow animate__fadeInRight" data-wow-duration="1s">
+						<h2>Contracts, purchasing and logistics management in Guyana.</h2>
+						<p>
+							From travel and immigration to documentation and licenses, Burada will make sure every detail is attended to on the road to establishing your company’s presence in Guyana.
+						</p>
+						<a class="btn btn--icon btn--text btn--text-white" href="#contact">
+							<span class="btn-text">INQUIRE NOW</span>
+							<img class="btn-icon" src="<?php echo get_template_directory_uri(); ?>/assets/img/icon/angles-right-white-md.png">
+						</a>
+					</div>
+					<!--/content copy-->
+				</div>
+				<!--/Content-->
+
+				<div class="content content--media-last">
+					<div class="content-copy wow animate__fadeInLeft" data-wow-duration="1s">
+						<h2>International Supply Chain Management.</h2>
+						<p>
+							The complexity involved in tracking the flow of goods and services in a foreign country can be daunting. Managing this process to maximize efficiencies and profitability for our clients is the business of Burada Logistics. Tell us your requirements and we will create a plan that will simplify the supply chain for your company.
+						</p>
+						<p>
+							We bring transparency to the process so our clients have the visibility and oversight to make critical decisions in a timely manner.
+						</p>
+						<a class="btn btn--icon btn--text btn--text-white" href="#contact">
+							<span class="btn-text">INQUIRE NOW</span>
+							<img class="btn-icon" src="<?php echo get_template_directory_uri(); ?>/assets/img/icon/angles-right-white-md.png">
+						</a>
+					</div>
+					<!--/content copy-->
+
+					<div class="content-media wow animate__fadeInRight" data-wow-duration="1s"">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/offer/supplychain-md-2.png">
+					</div>
+					<!--/content media-->
+				</div>
+				<!--/Content-->
+
+				<div class="content content--media-first">
+					<div class="content-media wow animate__fadeInLeft" data-wow-duration="1s"">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/offer/guyanamap-md.png">
+					</div>
+					<!--/content media-->
+
+					<div class="content-copy wow animate__fadeInRight" data-wow-duration="1s">
+						<h2>Is your company planning to expand into Guyana?</h2>
+						<p>
+							Every country has its own operational and regulatory nuances. Burada Logistics has established connections with all levels of government to help your company navigate Guyana’s regulations and support your company’s expansion into Guyana.
+						</p>
+						<a class="btn btn--icon btn--text btn--text-white" href="#contact">
+							<span class="btn-text">INQUIRE NOW</span>
+							<img class="btn-icon" src="<?php echo get_template_directory_uri(); ?>/assets/img/icon/angles-right-white-md.png">
+						</a>
+					</div>
+					<!--/content copy-->
+				</div>
+				<!--/Content-->
+			</div>
+			<!--/CONTENTS-->
+		</div>
+	</section>
+	<!--/OFFER-->
+
+	<section class="partners section">
+		<div class="container maxw-1200">
+			<div class="decoration">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon/crate-red-md.png">
+			</div>
+			<!--/DECORATION-->
+
+			<div class="heading maxw-980 mx-auto wow animate__fadeInUp" data-wow-duration="1s">
+				<h2 class="heading-title">BURADA OFFERS A COMPREHENSIVE <br/> LOGISTICS STRATEGY</h2>
+				<p class="heading-description">
+					With our global network of logistics and supply chain specialists, Burada Logistics delivers the expertise required to give our customers the operational and cost advantages to succeed in Guyana.
+				</p>
+			</div>
+			<!--/Heading-->
+
+			<div class="logistic d-none">
+				<div class="logistic-map">
+					<img src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/map-guyana-grey-light-lg.svg">
+				</div>
+				<!--/logistic map-->
+
+				<div class="logistic-content logistic-content--one text-right">
+					<div class="logistic-content__media">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/ship-md.png">
+					</div>
+					<div class="logistic-content__main">
+						<h2>Vessels Arriving at Port of Call</h2>
+						<p>
+							Your containers have arrived - What now. Burada has the process and documentation ready, thus ensuring your goods will arrive at the destination on time and intack.
+						</p>
+						<img class="img-desktop" src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/content-one-line-desktop.svg">
+					</div>
+				</div>
+				<!--/logistic content-->
+
+				<div class="logistic-content logistic-content--two text-right">
+					<div class="logistic-content__media">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/train-md.png">
+					</div>
+					<div class="logistic-content__main">
+						<h2>Cargo and Goods Arriving by Air</h2>
+						<p>
+							Your goods have arrived at the Airport - What Now. Burada is there to process the paperwork that gets your goods through customs and on the right truck to the right distribution centre “on time- everytime”
+						</p>
+						<img class="img-desktop" src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/content-two-line-desktop.svg">
+					</div>
+				</div>
+				<!--/logistic content-->
+
+				<!-- <div class="logistic-content logistic-content--three text-right">
+					<div class="logistic-content__main">
+						<h2>Final Mile Delivery  & Local Distribution</h2>
+						<p>
+							Burada also offers last mile delivery alternatives to provide and guarantee exceptional service levels to our customers and adapt to the constantly changing industry sectors in Guyana
+						</p>
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/content-two-line-desktop.svg">
+					</div>
+					<div class="logistic-content__media">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/train-md.png">
+					</div>
+				</div> -->
+				<!--/logistic content-->
+
+				<div class="logistic-content logistic-content--four text-left">
+					<div class="logistic-content__media">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/cargojet-md.png">
+					</div>
+					<div class="logistic-content__main">
+						<h2>Cargo Travelling By Rail for Transport</h2>
+						<p>
+							Cargo travelling by rail to Distribution Centres - From the shipyard to the major distribution hub - Burada provides the network that gets your container on the right train to the right center everytime.
+						</p>
+						<img class="img-desktop" src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/content-four-line-desktop.svg">
+					</div>
+				</div>
+				<!--/logistic content-->
+
+				<div class="logistic-content logistic-content--five text-left">
+					<div class="logistic-content__media">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/warehouse-md.png">
+					</div>
+					<div class="logistic-content__main">
+						<h2>Cargo Processed by Distribution Centre</h2>
+						<p>
+							Goods processed in distribution centres ready for delivery. Burada is there - we know where your goods need to go.
+						</p>
+						<img class="img-desktop" src="<?php echo get_template_directory_uri(); ?>/assets/img/logistic/content-five-line-desktop.svg">
+					</div>
+				</div>
+				<!--/logistic content-->
+			</div>
+			<!--/Logistic-->
+
+			<div class="logistic wow animate__fadeInUp" data-wow-duration="1s">
+				<img class="desktop" src="<?php echo get_template_directory_uri(); ?>/assets/img/temp/logistic-desktop.png">
+				<img class="mobile" src="<?php echo get_template_directory_uri(); ?>/assets/img/temp/logistic-mobile.png">
+			</div>
+			<!--/Logistic(temp)-->
+
+			<hr class="hr-grey" id="partners">
+
+			<div class="heading mt-100 wow animate__fadeInUp" data-wow-duration="1s">
+				<h2 class="heading-title">OUR PARTNERS</h2>
+				<p class="heading-description">
+					Our partners in Guyana and across the globe are here to support the growth of your business and strengthen your Guyanese connections. We are proud to partner with the following organizations.
+				</p>
+			</div>
+			<!--/Heading-->
+
+			<div class="partner">
+				<div class="partner-items">
+					<div class="partner-item wow animate__fadeInUp" data-wow-duration="1s">
+						<div class="partner-img">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/partner/logo-guyana-canada-chamber-of-commerce.png" alt=">Guyana Canada Chamber of Commerce">
+						</div>
+						<h2>The Canada- Guyana Chamber of Commerce</h2>
+						<p>
+							This non-partisan institution promotes and facilitates investment and trade between Guyana and Canada. As the go-to support for trade and investment between Canada and Guyana, the Canada- Guyana Chamber of Commerce (CGCC) strengthens relationships within the business communities and creates awareness of mutual opportunities for growth.
+						</p>
+						<a href="https://cgcc.gy/" target="_blank">Learn More ></a>
+					</div>
+					<!--/partner item-->
+
+					<div class="partner-item wow animate__fadeInUp" data-wow-duration="1s">
+						<div class="partner-img">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/partner/logo-goverment-of-guyana.png" alt=">Guyana Canada Chamber of Commerce">
+						</div>
+						<h2>Guyana Lands and Surveys Commission</h2>
+						<p>
+							From its capital in Georgetown the Government of Guyana is focused on improving the health and welfare for all the citizens of Guyana. To this end the government actively looks to partner with companies that have established track records in demonstrating the principles congruent with our countries best interests. The Government of Guyana is proud to partner with companies like Burada Logistics that bring their experience, integrity and expertise to the development of infrastructure and commerce in Guyana.
+						</p>
+						<a href="https://government.gy/home" target="_blank">Learn More ></a>
+					</div>
+					<!--/partner item-->
+				</div>
+			</div>
+			<!--/Partner-->
+		</div>
+	</section>
+	<!--/PARTNERS-->
+
+	<section class="global section" id="global">
+		<div class="container maxw-1100">
+			<div class="global-content wow animate__fadeInUp" data-wow-duration="1s">
+				<p>
+					With global expertise in getting things done across borders, countries and industries, Burada Logistics merges partnership with infrastructure to support both businesses and the country of Guyana on the global economic stage.
+				</p>
+				<p>
+					Our full-service logistics services simplify your work abroad and at home. Contact us to learn how Burada Logistics can bolster your company’s next project in Guyana
+				</p>
+				<a class="btn btn--dark btn--icon btn--icon-lg" href="#contact">
+					<span class="btn-text">Contact Us</span>
+					<img class="btn-icon" src="<?php echo get_template_directory_uri(); ?>/assets/img/icon/angles-right-white-md.png">
+				</a>
+			</div>
+			<!--/Global Content-->
+
+			<div class="global-decoration">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon/crate-ygr-half-md.png">
+			</div>
+			<!--/Global Decoration-->
+
+			<video class="global-video" src="<?php echo get_template_directory_uri(); ?>/assets/video/global.mp4" loop muted playsinline autoplay></video>
+			<!--/Global Video-->
+		</div>
+	</section>
+	<!--/GLOBAL-->
+
+	<section class="contact section" id="contact">
+		<div class="container">
+			<div class="heading heading--white">
+				<h2 class="heading-title">CONTACT US TODAY!</h2>
+			</div>
+			<!--/Heading-->
+
+			<?php echo do_shortcode('[gravityform id="1" ajax="true"]');?>
+			<!--/Form-->
+		</div>
+	</section>
+	<!--/CONTACT-->
+
+	<a class="scroll scroll-top js-scroll-top" href="#hero">
+		<svg><use xlink:href="<?php echo get_template_directory_uri(); ?>/assets/img/icon/sprite.svg#angle-up"></use></svg>
+	</a>
+	<!--/SCROLL-->
+
+<?php
+get_footer();

@@ -1,0 +1,62 @@
+//
+// Heading
+// --------------------------------------------------
+
+//
+// Heading
+//
+.heading {
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+
+//
+// Heading White
+//
+.heading--white {
+	// heading title
+	.heading-title {
+		color: $white-lighter;
+	}
+
+	// heading description
+	.heading-description {
+		color: $white-lighter;
+	}
+}
+
+
+//
+// Heading Title
+//
+.heading-title {
+	color: $black-lighter;
+	font-size: 40px;
+  font-weight: 600;
+  letter-spacing: -0.83px;
+	margin-bottom: 15px;
+
+  // Responsive
+  // @media(max-width: 1024px)
+	@media(max-width: 1024px) {
+		// br
+		br {display: none;}
+	}
+
+  // Responsive
+  // @media(max-width: 768px)
+	@media(max-width: 768px) {
+		font-size: 36px;
+		letter-spacing: -0.75px;
+	}
+}
+
+
+//
+// Heading Description
+//
+.heading-description {
+	color: $black-lighter;
+	font-size: 18px;
+}

@@ -1,0 +1,84 @@
+//
+// Base
+// --------------------------------------------------
+
+//
+// Super hard reset
+//
+input,
+textarea,
+button {
+  border: 0;
+  border-radius: 0;
+  outline: none;
+  appearance: none;
+
+  &:hover,
+  &:active,
+  &:focus {
+    outline: none;
+  }
+}
+
+
+//
+// Set Image and Objects to have a max-width of 100%
+//
+embed,
+iframe,
+img,
+object,
+video {
+  max-width: 100%;
+}
+
+//
+// Outline
+// Gets rid of the annoying outline for mouse users but preserves it for keyboard users,
+// and is ignored by browsers that don’t support :focus-visible.
+// https://twitter.com/LeaVerou/status/1045768279753666562
+//
+// :focus:not(:focus-visible) { outline: none }
+
+
+// //
+// // SVG
+// //
+// .svg {
+// 	fill: $black;
+// 	width: 20px;
+// 	height: 20px;
+// }
+
+
+//
+// HTML
+//
+html {
+	scroll-behavior: smooth;
+}
+
+
+//
+// Body
+//
+body {
+	// padding-top: 118px;
+
+	// is header fixed
+	// &.is-header-fixed {
+	// 	.header {
+	// 		background-color: rgba(0, 0, 0, 0.9);
+	// 	}
+	// }
+}
+
+
+//
+// Hr Grey
+//
+.hr-grey {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	border-color: $white-lighter;
+}

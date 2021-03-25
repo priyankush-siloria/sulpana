@@ -1,0 +1,20 @@
+//
+// Grid
+// --------------------------------------------------
+
+//
+// Container
+//
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 40px;
+	padding-right: 40px;
+
+  // Responsive
+  // @media(max-width: 1000px)
+  @media(max-width: 1000px) {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}

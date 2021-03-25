@@ -1,0 +1,157 @@
+//
+// Header
+// --------------------------------------------------
+
+//
+// Header
+//
+.header {
+	padding: 30px 20px;
+	position: relative;
+	z-index: 9;
+
+	// position: fixed;
+	// top: 0;
+	// left: 0;
+	// right: 0;
+	// transition: all .2s;
+	// width: 100%;
+	// background-color: rgba(0, 0, 0, 0.9);
+
+	// container
+	.container {
+		display: flex;
+		justify-content: space-between;
+		align-items: center
+	}
+
+  // Responsive
+  // @media(max-width: 1340px)
+  @media(max-width: 1340px) {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+}
+
+
+//
+// Nav Items
+//
+.nav-items {
+	@include reset();
+	display: flex;
+}
+
+
+//
+// Nav Item
+//
+.nav-item {
+	margin-left: 80px;
+	margin-right: 18px;
+
+	// first & last child
+	&:first-child {margin-left: 0px;};
+	&:last-child {margin-right: 0px;}
+
+  // Responsive
+  // @media(max-width: 1260px)
+  @media(max-width: 1260px) {
+		margin-left: 40px;
+		margin-right: 40px;
+	}
+}
+
+
+//
+// Nav Link
+//
+.nav-link {
+	font-family: $font-primary;
+	color: $grey-light;
+	font-size: 14px;
+	font-weight: 500;
+	text-decoration: none;
+	transition: background-color 0.25s ease-out, color 0.25s;
+
+	// hover
+	&:hover {
+		color: $grey-lighter;
+	}
+}
+
+
+//
+// Nav Header
+//
+.nav--header {
+  // Responsive
+  // @media(max-width: 1024px)
+  @media(max-width: 1024px) {
+		position: absolute;
+		left: 0px;
+		right: 0px;
+		top: 100px;
+		transform:scaleY(0);
+		background-color: rgba($black, 0.9);
+
+		// is open
+		&.is-open {
+			overflow: hidden;
+			transition: transform 0.3s ease-out;
+			height: auto;
+			transform: scaleY(1);
+			transform-origin: top;
+		}
+
+		// nav items
+		.nav-items {
+			display: block;
+			text-align: center;
+		}
+
+		// nav item
+		.nav-item {
+			display: block;
+			margin-left: 0px;
+			margin-right: 0px;
+			padding-top: 15px;
+			padding-bottom: 15px;
+			&:first-child {padding-top: 30px;}
+			&:last-child {padding-bottom: 30px;}
+		}
+
+		// nav link
+		.nav-link {
+			font-size: 16px;
+		}
+	}
+}
+
+
+//
+// Menuicon
+//
+.menuicon {
+	display: none;
+	background: none;
+	border: none;
+	padding: 0px;
+	width: 36px;
+	height: 36px;
+
+	// svg
+	svg {
+		width: 36px;
+		height: 36px;
+		fill: rgba($white-lighter, 0.4);
+		user-select: none;
+		cursor: pointer;
+	}
+
+  // Responsive
+  // @media(max-width: 1024px)
+  @media(max-width: 1024px) {
+		display: block;
+	}
+}

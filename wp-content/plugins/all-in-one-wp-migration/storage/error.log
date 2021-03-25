@@ -1,0 +1,387 @@
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:10
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:10
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:10
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:10
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:10
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:11
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:11
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:11
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:11
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:11
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:11
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:11
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:12
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:12
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:12
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:13
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:13
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:13
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:13
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:13
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:13
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:13
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:13
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:13
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:13
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:16
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:16
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:16
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:20
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:20
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:20
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:23
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:23
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:23
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:23
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:23
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:23
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:23
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:23
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:23
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:23
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:26
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:26
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:26
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:28
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:28
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:28
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:28
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:28
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:28
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:28
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:29
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:29
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:29
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:29
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:29
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:29
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:29
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:30
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:30
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:30
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:30
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:30
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:30
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:30
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:30
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:30
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:30
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:31
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:31
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:31
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:31
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:33
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":964}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":965}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"Undefined array key \"HTTPS\"","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1021}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1485}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"foreach() argument must be of type array|object, null given","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1047}
+
+Mar 25 2021 05:48:33
+{"Number":2,"Message":"Trying to access array offset on value of type null","File":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\plugin.php","Line":1411}
+
+Mar 25 2021 05:48:33
+{"type":2,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\example_site\\wp-content\\mu-plugins\\wpengine-common\\wpe-sec.php","line":64}
+
