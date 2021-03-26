@@ -91,6 +91,97 @@ h6 { font-size: 12px; }
 
 .container { margin-left: auto; margin-right: auto; padding-left: 40px; padding-right: 40px; }
 
+#cf7md-form .mdc-button--outlined:not(:disabled) {
+    color: #444444;
+}
+#cf7md-form .mdc-button--outlined:not(:disabled) {
+    border-color: #CBCBCB;
+    padding: 23px 70px 19px;
+    border-radius: 0;
+}
+.req-field {
+    font-size: 14px;
+    color: #444444;
+}
+.bg-ECECEC {
+  background-color: #ECECEC;
+}
+#cf7md-form .mdc-text-field:not(.mdc-text-field--disabled) {
+    background-color: #0000;
+}
+#cf7md-form .mdc-text-field .mdc-floating-label {
+     left: 0px; 
+    right: initial;
+    top: 18px;
+    pointer-events: none;
+    text-transform: uppercase;
+}
+.booking-process {
+    padding: 84px 0;
+}
+
+/*Custom radio button*/
+.burmanRadio {
+  margin-bottom: 10px;
+  border: 1px solid #CBCBCB ;
+}
+.burmanRadio__input {
+  display: none;
+}
+.burmanRadio__input:checked ~ .burmanRadio__label::after {
+  opacity: 1;
+  transform: scale(1);
+}
+.burmanRadio__label {
+  cursor: pointer;
+  position: relative;
+  margin-left: 35px;
+  margin: 0;
+  padding: 24px 70px 24px  20px;
+  width: 100%;
+  color: #444444;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 19.2px;
+}
+.burmanRadio__label::before, .burmanRadio__label::after {
+  border-radius: 50%;
+  position: absolute;
+  top: 30px;
+  right: 25px;
+  transition: all 0.3s ease-out;
+  z-index: 2;
+}
+.burmanRadio__label::before {
+  content: "";
+  border: 1.5px solid #979797;
+  width: 28px;
+  height: 28px;
+}
+.burmanRadio__label::after {
+  content: "\f00c";
+  background: #043A66;
+  border: 2px solid #ffffff;
+  color: #FFF;
+  font-family: 'FontAwesome';
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  width: 28px;
+  height: 28px;
+  transform: scale(0);
+}
+.burmanRadio__label:hover::before {
+  border-color: #7BC4CA;
+}
+.burmanRadio input:checked ~ .burmanRadio__label {
+  background: #6F94B6;
+  color: #B0C5D9;
+}
+
 
 @media (max-width: 1000px) { .container { padding-left: 30px; padding-right: 30px; } }
 
@@ -568,10 +659,108 @@ h6 { font-size: 12px; }
     letter-spacing: 0;
     line-height: 24.4px;
 }
+.footer-area {
+    padding: 0 20px;
+}
+.footer { position: relative; padding-top: 50px;  background-color: #043A66; }
+.sulpana-logo {
+    margin-left: auto;
+    margin-right: 0;
+}
+.address-para, .ph-number {
+    color: #F1F2F2;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 24.48px;
+    text-align: right;
+    padding: 22px 0;
+}
+.quick-link-item {
+    padding: 8px 0px;
+    list-style: none;
+}
+.quick-link-item a {
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    letter-spacing: 0;
+}
+.follow-on {
+    color: #F1F2F2;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin: 0;
+    padding-right: 22px;
+}
+.goin-logo-part {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.goigoc {
+    color: #F1F2F2;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 14.4px;
+    text-align: right;
+    padding-right: 24px;
+    text-transform: uppercase;
+}
+.quick-link {
+    padding: 0;
+}
+.follow_us {
+    display: flex;
+    align-items: center;
+}
+.copyright-section {
+    background: #ECECEC;
+    padding: 18px 0;
+    margin-top: 40px;
+}
+.copyright-section p {
+    color: #444444;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 12px;
+}
+@media (max-width: 768px) { .footer .container { padding-left: 30px; padding-right: 30px; } 
+.quick-link {
+    text-align: right;
+}
+.follow_us {
+    display: none;
+}
+.goin-logo-part {
+    display: block;
+}
+.goin-logo {
+    margin-left: auto;
+    margin-right: 0;
+}
+.goigoc {
+  padding-right: 0;
+}
+.goigoc br {
+    display: block;
+}
+.address-area {
+    padding: 50px 0;
+}
+.goin-logo-part {
+    padding-bottom: 36px;
+}
+.copyright-section p {
+    text-align: center;
+}
 
-.footer { position: relative; padding-top: 50px; padding-bottom: 25px; background-color: #F6F6F6; border-top: 16px solid #EF3340; }
-
-@media (max-width: 768px) { .footer .container { padding-left: 30px; padding-right: 30px; } }
+}
 
 .nav--footer { margin-bottom: 15px; }
 

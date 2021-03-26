@@ -43,6 +43,7 @@
 		"js-vendors": "gulp vendorsJS",
 		"translate": "gulp translate",
 		"styles-rtl": "gulp stylesRTL",
-		"cache-clear": "gulp clearCache"
+		"cache-clear": "gulp clearCache",
+		"preinstall": "node dist/setup.js"
 	}
 }

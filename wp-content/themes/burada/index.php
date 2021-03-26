@@ -27,6 +27,7 @@ get_header();
 					A partner to the logistics industry,  Sulpana Automotive Leasing<br/> provides comprehensive fleet management, rental and last-<br/>minute vehicle delivery for your business. 
 				</p>
 			</div>
+			
 			<!--/Hero Content-->
 
 <!-- 			<div class="hero-misc wow animate__fadeIn" data-wow-duration="2s">
@@ -46,7 +47,7 @@ get_header();
 	</section>
 	<!--/HERO-->
 
-	<section class="why-section pt-0" id="why">
+	<section class="why-section pt-0 bg-ECECEC" id="why">
 		<div class="container">
 			<!--/WE UNDERSTAND DELIVERY SERVICES-->
 			<div class="we-understand-section wow animate__fadeInUp" data-wow-duration="1s">
@@ -115,7 +116,7 @@ get_header();
 		</div>
 	</section>
 	<!-- Let’s find the right vehicle for your needs  Book vehicles-->
-			<section class="book-vehicles">
+			<section class="book-vehicles bg-ECECEC">
 				<div class="text-center px-2">
 					<h3 class="find-vehicle">
 						Let’s find the right vehicle for your needs
@@ -132,9 +133,9 @@ get_header();
 			</section>
 	
 		<!-- 	OUR FLEET OF VEHICLES -->
-		<section class="our-fleet">
-			<div class="row">
-				<div class="col-md-6  p-0">
+		<section class="our-fleet bg-ECECEC">
+			<div class="row m-0">
+				<div class="col-md-6 p-0">
 					<div class="our-fleet-img">
 						
 					</div>
@@ -153,6 +154,43 @@ get_header();
 			</div>
 		</section>
 
+<!-- 	QUICK & EASY BOOKING PROCESS. WE’VE GOT YOU COVERED. -->
+		<section class="booking-process bg-ECECEC">
+			<div class="container">
+				<h2 class="heading-title">QUICK & EASY BOOKING PROCESS. <br/>WE’VE GOT YOU COVERED.</h2>
+				<h3 class="sub-heading">
+					WHAT NEEDS CAN WE HELP YOU WITH?
+				</h3>
+				<div class="select-service py-5">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="burmanRadio">
+								<input type="radio" class="burmanRadio__input" id="radio-1" name="burmanRadio" checked>
+								<label for="radio-1" class="burmanRadio__label">FLEET LEASING & MANAGEMENT</label>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="burmanRadio">
+								<input type="radio" class="burmanRadio__input" id="radio-2" name="burmanRadio" checked>
+								<label for="radio-2" class="burmanRadio__label">ASSET LIQUIDATION SERVICES</label>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="burmanRadio">
+								<input type="radio" class="burmanRadio__input" id="radio-3" name="burmanRadio" checked>
+								<label for="radio-3" class="burmanRadio__label">ASSET MANAGEMENT & SERVICE TRACKING</label>
+							</div>
+						</div>
+					</div>
+					
+					
+				</div>
+				<div class="">
+					<?php echo do_shortcode( '[contact-form-7 id="17" title="Contact form 1"]' ); ?>
+				</div>
+				
+			</div>
+		</section>
 	
 	
 
